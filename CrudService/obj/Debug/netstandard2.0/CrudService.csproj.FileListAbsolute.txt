@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\MVCCrud\CrudService\bin\Debug\netstandard2.0\MVCCrud.dll
+C:\Users\Dell\source\repos\MVCCrud\CrudService\obj\Debug\netstandard2.0\CrudService.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\MVCCrud\CrudService\obj\Debug\netstandard2.0\CrudService.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MVCCrud\CrudService\obj\Debug\netstandard2.0\CrudService.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MVCCrud\CrudService\obj\Debug\netstandard2.0\CrudService.AssemblyInfo.cs
